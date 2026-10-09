@@ -55,7 +55,7 @@ This isn't a trick question exercise. We want to see how you work in a realistic
 
 ### Prerequisites
 
-- Node.js 22.12+ (24 LTS recommended — see `.nvmrc`, run `nvm use` if you use nvm)
+- Node.js 22.13+ (24 LTS recommended — see `.nvmrc`, run `nvm use` if you use nvm)
 - pnpm (or npm/yarn)
 
 ### Installation
